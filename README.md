@@ -325,3 +325,4 @@ GenerateMessageId("Continue running background apps when Chromium is closed")
 ```
 <translation id="3296368748942286671">关闭浏览器后继续运行后台应用</translation>
 ```
+注意：这个翻译内容，要根据msgid的值，插入到对应的位置，msgid是要从小到大依次写入语言文件的。
